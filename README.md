@@ -1,5 +1,11 @@
-## Hi there 👋
+✦ ───────────────────────────── ✦
 
+H A N E E N    N A S S E R
+
+Software Engineering Graduate
+AI • Automation • Full-Stack
+
+✦ ───────────────────────────── ✦
 <!--
 **Haneen-swe/Haneen-SWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
