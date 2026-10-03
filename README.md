@@ -1,6 +1,6 @@
 ✦ ───────────────────────────── ✦
 
-H A N E E N    N A S S E R
+H A N E E N     N A S S E R
 
 Software Engineering Graduate
 AI • Automation • Full-Stack
